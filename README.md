@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abuffetti
 - 👀 I’m interested in programming personal use apps.
-- 🌱 I’m currently learning Swift, Lisp and Eiffel programming languages.
+- 🌱 I’m currently learning Swift, Lisp and Ada programming languages.
 
 <!---
 abuffetti/abuffetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
